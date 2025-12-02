@@ -1,5 +1,8 @@
 # 🛍️ Power BI – SuperStore Retail Dashboard
 
+![Dashboard Preview](Captura%20de%20pantalla%202025-12-02%20103032.png)
+
+
 Análisis completo de ventas y clientes basado en el dataset **SuperStore Retail**.  
 El objetivo del proyecto es construir un panel interactactivo que permita identificar tendencias comerciales, detectar oportunidades y facilitar la toma de decisiones a nivel estratégico.
 
