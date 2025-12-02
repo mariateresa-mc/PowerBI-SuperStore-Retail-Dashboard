@@ -91,6 +91,6 @@ El dashboard completo se encuentra en este repositorio:
 **Maria Teresa Martinez Castro**  
 Dashboard y análisis realizados en Power BI.
 
-<img width="1578" height="707" alt="image" src="https://github.com/user-attachments/assets/dc21e2df-d2f5-49bf-8e67-fd85a47d5ee3" />
+
 
 
