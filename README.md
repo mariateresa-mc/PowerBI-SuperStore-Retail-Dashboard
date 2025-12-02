@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](Captura%20de%20pantalla%202025-12-02%20103032.png)
 
-👉 [**Descargar proyecto retail (.pbix)**](proyecto%20retail.pbix)
+👉 [**Descargar proyecto retail (.pbix)**](https://github.com/mariateresa-mc/PowerBI-SuperStore-Retail-Dashboard/raw/main/proyecto%20retail.pbix)
 
 
 Análisis completo de ventas y clientes basado en el dataset **SuperStore Retail**.  
